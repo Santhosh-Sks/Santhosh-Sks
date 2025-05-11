@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **My College porject**
 
-- 🌱 I’m currently learning **ReactJS,DSA with java**
+- 🌱 I’m currently learning **DSA with java and SpringBoot**
 
 - 👨‍💻 All of my projects are available at <a href="https://santhosh-sks.github.io/Portfolio/">My projects</a>
-- 💬 Ask me about **Java , C ,& C++**
+- 💬 Ask me about **Java &  C**
 
 - 📫 How to reach me **santikumr065@gmail.com**
 
