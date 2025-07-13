@@ -3,14 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhosh-sks" alt="santhosh-sks" /></a> </p>
 
-- 🔭 I’m currently working on **My College porject**
-
-- 🌱 I’m currently learning **DSA with java and SpringBoot**
-
 - 👨‍💻 All of my projects are available at <a href="https://santhosh-sks.github.io/Portfolio/">My projects</a>
-- 💬 Ask me about **Java &  C**
-
-- 📫 How to reach me **santikumr065@gmail.com**
 
 - 📄 Know about my experiences <a href="https://santhosh-sks.github.io/Portfolio/">Resume</a>
 
